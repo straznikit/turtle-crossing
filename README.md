@@ -17,7 +17,6 @@ Welcome to Turtle Crossing, a simple Python game where you guide a turtle across
 ## Dependencies:
 
 Python 3.12
-
 ## Getting Started:
 
 1. Clone the repository to your local machine:
