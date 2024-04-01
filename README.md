@@ -7,7 +7,6 @@ Welcome to Turtle Crossing, a simple Python game where you guide a turtle across
 1. Use the arrow keys to move the turtle upward.
 2. Avoid colliding with any moving obstacles, represented by blocks crossing the screen horizontally.
 3. Reach the top row of the board to win the game.
-
 ## Features:
 
 - Simple yet challenging gameplay.
